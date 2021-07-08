@@ -8,7 +8,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 📊 **This week I spent my time on**
 
-[![Simplecxp 的 GitHub 统计](https://github-readme-stats.vercel.app/api ?username=Simplecxp )](https://github.com/Simplecxp/github-readme-stats)
+[!Simplecxp 的 GitHub 统计](https://github-readme-stats.vercel.app/api ?username=Simplecxp )
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
