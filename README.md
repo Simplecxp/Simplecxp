@@ -8,7 +8,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 📊 **This week I spent my time on**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Simplecxp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simplecxp&show_icons=true&theme=radical)
 
 
 📕 **Latest Blog Posts**
