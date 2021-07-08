@@ -8,7 +8,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 📊 **This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Simplecxp&hide_title=true&hide_border=true&langs_count=5)
+![Wwakatime stats](https://github.com/Simplecxp/bolo-blog.git)
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
